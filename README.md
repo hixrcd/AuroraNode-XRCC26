@@ -1,6 +1,6 @@
 # AuroraNode — XRCC 2026
 
-State-driven XR system exploring AGI-human interaction.
+State-driven XR system where human input (voice, text, presence) shapes the environment in real time.
 
 ## Concept
 
