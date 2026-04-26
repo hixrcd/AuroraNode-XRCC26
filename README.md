@@ -1,5 +1,7 @@
 # AuroraNode — XRCC 2026
 
+> Building adaptive XR systems — not static experiences.
+
 State-driven XR system where human input (voice, text, presence) shapes the environment in real time.
 
 ## Concept
