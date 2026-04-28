@@ -1,5 +1,11 @@
 # AuroraNode XRCC’26
 
+AGI–XR Architect — AuroraMind
+
+We build systems that adapt to human state, not just input.
+
+---
+
 **AuroraMind — AGI-XR Systems | Real-Time State-Responsive Environments**
 
 Input → State → Visual / Audio / Interaction → Feedback Loop
