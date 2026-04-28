@@ -1,4 +1,12 @@
-# AuroraNode — XRCC 2026
+# AuroraNode XRCC’26
+
+**AuroraMind — AGI-XR Systems | Real-Time State-Responsive Environments**
+
+Input → State → Visual / Audio / Interaction → Feedback Loop
+
+A real-time XR prototype exploring how environments can respond to human state through visual, audio, and interaction layers.
+
+Built for XRCC’26.
 
 > Building adaptive XR systems — not static experiences.
 
